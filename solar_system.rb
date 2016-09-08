@@ -15,5 +15,9 @@ class Solar_System
       end
 end
 
+puts Solar_System.new.count_planets
+
+
+
 
 
